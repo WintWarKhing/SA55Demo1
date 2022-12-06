@@ -87,4 +87,5 @@ public class PersonController {
         personService.removePerson(p);
         return "redirect:/persons/list";
     }
+    //thardu
 }
